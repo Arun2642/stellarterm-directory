@@ -808,4 +808,17 @@
             }
         ]
     }
+    {
+        "domain": "democracy-token.com",
+        "website": "https://democracy-token.com",
+        "logo": "DEMOCRACY",
+        "color": "#400023",
+        "displayName": "DEMOCRACY",
+        "assets": [
+            {
+                "code": "DEMOCRACY",
+                "issuer": "GDISTY2LMDTLJB36TVX3KNCDDXJ6SWZOJIMZDBJ7JM767LJ4WZ2322TJ"
+            }
+        ]
+    }
 ]
